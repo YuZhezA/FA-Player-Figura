@@ -1,0 +1,11 @@
+{
+  "name": "Fresh Animations Player — Figura Port fix17",
+  "description": "Personal-use Figura port of FA+Player v1.1 for Minecraft 1.21.1 NeoForge. fix17 restores the forward arm tilt while actively blocking with a shield.",
+  "authors": [
+    "FreshLX — original Fresh Animations and FA+Player assets",
+    "Local Figura compatibility port"
+  ],
+  "version": "0.1.11",
+  "color": "55AA55",
+  "autoScripts": ["script"]
+}

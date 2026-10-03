@@ -1,0 +1,23 @@
+# Generated packages
+*.zip
+
+# Development and reference material
+tools/
+reference/
+screenshots/
+__pycache__/
+*.pyc
+*.class
+
+# Upstream source/resource trees
+FA+Player-v1.1/
+FreshAnimations*/
+Entity_Model_Features*/
+Entity_Texture_Features*/
+Figura*/
+
+# Editor and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

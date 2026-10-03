@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "format_version": "4.10",
+    "model_format": "free"
+  },
+  "resolution": {
+    "width": 64,
+    "height": 32
+  },
+  "elements": [],
+  "outliner": [
+    {
+      "name": "BodyElytraRig",
+      "uuid": "00000000-0000-4000-8000-000000000201",
+      "origin": [
+        0,
+        24,
+        0
+      ],
+      "isOpen": true,
+      "children": [
+        {
+          "name": "ElytraWings",
+          "uuid": "00000000-0000-4000-8000-000000000202",
+          "origin": [
+            0,
+            24,
+            0
+          ],
+          "isOpen": true,
+          "children": [
+            {
+              "name": "LeftElytraPivot",
+              "uuid": "00000000-0000-4000-8000-000000000203",
+              "origin": [
+                0,
+                24,
+                0
+              ],
+              "isOpen": true,
+              "children": []
+            },
+            {
+              "name": "RightElytraPivot",
+              "uuid": "00000000-0000-4000-8000-000000000204",
+              "origin": [
+                0,
+                24,
+                0
+              ],
+              "isOpen": true,
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "textures": []
+}
