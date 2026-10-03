@@ -4,6 +4,8 @@ FA+Player v1.1 的非官方 Figura 兼容移植，目标环境为 Minecraft 1.21
 
 当前版本：`fix17`
 
+项目状态、仓库边界和发布规则记录在 [PROJECT_STATUS.md](PROJECT_STATUS.md)。
+
 ## 安装
 
 1. 下载本仓库。
